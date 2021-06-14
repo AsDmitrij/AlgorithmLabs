@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\LittleAlg2\Debug\LittleAlg2.exe
+C:\Users\user\source\repos\LittleAlg2\Debug\LittleAlg2.pdb
+C:\Users\user\Desktop\Litle\Debug\LittleAlg2.exe
+C:\Users\user\Desktop\Litle\Debug\LittleAlg2.pdb
