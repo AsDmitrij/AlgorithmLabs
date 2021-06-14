@@ -1,0 +1,26 @@
+C:\Users\user\source\repos\Boyer-Moore\bin\Debug\netcoreapp3.1\Boyer-Moore.exe
+C:\Users\user\source\repos\Boyer-Moore\bin\Debug\netcoreapp3.1\Boyer-Moore.deps.json
+C:\Users\user\source\repos\Boyer-Moore\bin\Debug\netcoreapp3.1\Boyer-Moore.runtimeconfig.json
+C:\Users\user\source\repos\Boyer-Moore\bin\Debug\netcoreapp3.1\Boyer-Moore.runtimeconfig.dev.json
+C:\Users\user\source\repos\Boyer-Moore\bin\Debug\netcoreapp3.1\Boyer-Moore.dll
+C:\Users\user\source\repos\Boyer-Moore\bin\Debug\netcoreapp3.1\Boyer-Moore.pdb
+C:\Users\user\source\repos\Boyer-Moore\obj\Debug\netcoreapp3.1\Boyer-Moore.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Boyer-Moore\obj\Debug\netcoreapp3.1\Boyer-Moore.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Boyer-Moore\obj\Debug\netcoreapp3.1\Boyer-Moore.AssemblyInfo.cs
+C:\Users\user\source\repos\Boyer-Moore\obj\Debug\netcoreapp3.1\Boyer-Moore.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Boyer-Moore\obj\Debug\netcoreapp3.1\Boyer-Moore.dll
+C:\Users\user\source\repos\Boyer-Moore\obj\Debug\netcoreapp3.1\Boyer-Moore.pdb
+C:\Users\user\source\repos\Boyer-Moore\obj\Debug\netcoreapp3.1\Boyer-Moore.genruntimeconfig.cache
+C:\Users\user\Desktop\Лабы Вельченко\Boyer-Moore\bin\Debug\netcoreapp3.1\Boyer-Moore.exe
+C:\Users\user\Desktop\Лабы Вельченко\Boyer-Moore\bin\Debug\netcoreapp3.1\Boyer-Moore.deps.json
+C:\Users\user\Desktop\Лабы Вельченко\Boyer-Moore\bin\Debug\netcoreapp3.1\Boyer-Moore.runtimeconfig.json
+C:\Users\user\Desktop\Лабы Вельченко\Boyer-Moore\bin\Debug\netcoreapp3.1\Boyer-Moore.runtimeconfig.dev.json
+C:\Users\user\Desktop\Лабы Вельченко\Boyer-Moore\bin\Debug\netcoreapp3.1\Boyer-Moore.dll
+C:\Users\user\Desktop\Лабы Вельченко\Boyer-Moore\bin\Debug\netcoreapp3.1\Boyer-Moore.pdb
+C:\Users\user\Desktop\Лабы Вельченко\Boyer-Moore\obj\Debug\netcoreapp3.1\Boyer-Moore.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Лабы Вельченко\Boyer-Moore\obj\Debug\netcoreapp3.1\Boyer-Moore.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Лабы Вельченко\Boyer-Moore\obj\Debug\netcoreapp3.1\Boyer-Moore.AssemblyInfo.cs
+C:\Users\user\Desktop\Лабы Вельченко\Boyer-Moore\obj\Debug\netcoreapp3.1\Boyer-Moore.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Лабы Вельченко\Boyer-Moore\obj\Debug\netcoreapp3.1\Boyer-Moore.dll
+C:\Users\user\Desktop\Лабы Вельченко\Boyer-Moore\obj\Debug\netcoreapp3.1\Boyer-Moore.pdb
+C:\Users\user\Desktop\Лабы Вельченко\Boyer-Moore\obj\Debug\netcoreapp3.1\Boyer-Moore.genruntimeconfig.cache
